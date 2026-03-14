@@ -13,9 +13,6 @@ public class RotateArrayToKth {
                 System.out.print(nums[i] + " ");
             }
             System.out.println();
-
-            // return res;
-
         }
 
         public int[] reverse(int[] arr, int start, int end) {
